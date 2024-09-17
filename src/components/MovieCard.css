@@ -1,0 +1,50 @@
+body {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #e0f7fa;
+ }
+ 
+ .movie-card {
+    background-color: #222224;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+    text-align: center;
+    margin: 15px;
+  }
+  
+  .movie-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .movie-poster {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .movie-name {
+    font-size: 5px;
+    margin: 10px 0;
+  }
+  
+  .movie-date {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
+  .movie-rating .star {
+    font-size: 1.2rem;
+    color: gold;
+  }
+  
+  .star.filled {
+    color: gold;
+  }
+  
+  .star {
+    color: grey;
+  }
+ 
