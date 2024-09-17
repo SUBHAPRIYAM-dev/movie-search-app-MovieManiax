@@ -82,7 +82,7 @@ https://www.omdbapi.com/?s={searchQuery}&apikey={your_omdb_api_key}
 ## 🚀 Live Demo
 
 You can view the live version of the app here:  
-🔗 **[MovieManiax Movie & Web Series Search App](**https://moviemaniax-movie-search-app.netlify.app/**)**
+🔗 **[MovieManiax Movie & Web Series Search App](https://moviemaniax-movie-search-app.netlify.app)**
 
 ## 👨‍💻 Contributing
 
