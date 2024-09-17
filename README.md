@@ -1,6 +1,6 @@
 # 🎬 **MovieManiax** - Movie & Web Series Search App
 
-**CineQuest** is a movie and web series search application built using React. It allows users to search for movies and web series by name, view basic information like the title and poster, and get detailed information such as the director, cast, rating, and a brief description by fetching data from the OMDB API.
+**MovieManiax** is a movie and web series search application built using React. It allows users to search for movies and web series by name, view basic information like the title and poster, and get detailed information such as the director, cast, rating, and a brief description by fetching data from the OMDB API.
 
 ## 🚀 Features
 
@@ -79,6 +79,10 @@ To use the API in the project, the following request is made:
 ```bash
 https://www.omdbapi.com/?s={searchQuery}&apikey={your_omdb_api_key}
 ```
+## 🚀 Live Demo
+
+You can view the live version of the app here:  
+🔗 **[MovieManiax Movie & Web Series Search App](**https://moviemaniax-movie-search-app.netlify.app/**)**
 
 ## 👨‍💻 Contributing
 
