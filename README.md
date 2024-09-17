@@ -29,7 +29,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/cinequest.git
+   git clone (https://github.com/SUBHAPRIYAM-dev/movie-search-app-MovieManiax.git)
    cd cinequest
    ```
 
